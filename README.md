@@ -10,14 +10,7 @@
  
 ## COMO UTILIZAR O SHELL
 
-1)
+1) Digite o comando "make"
 
-2)
+2) Digite ./executavel
 
-3)
-
-4)
-
-5)
-
-6)
